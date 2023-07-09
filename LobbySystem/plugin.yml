@@ -1,0 +1,11 @@
+name: LobbySystem
+version: 0.1
+author: Tempoo50
+main: de.tempoo50.lobysystem.main.LobbySystem
+
+commands:
+
+   test:
+      description:
+   lobby:
+      description:
